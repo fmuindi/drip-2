@@ -15,7 +15,7 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 | Explore the $500 Waste Analysis | `https://engage.cfalean365.com/product/lean-engage-conference/  (live $500 Lean365 Waste Analysis product page)` |
 | Enroll — Virtual Cohort | `https://example.com/lean365/enroll-virtual-cohort` |
 | Enroll — Dallas Accelerator | `https://example.com/lean365/enroll-dallas-accelerator` |
-| Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean365-introduction-call` |
+| Join a Lean365 Introduction Call | `https://calendly.com/evans-kariuki-circleksolutions/lean-leader-information-call` |
 
 `example.com` links are placeholders for destinations still pending.
 
