@@ -11,7 +11,7 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 
 | Button | Destination |
 | --- | --- |
-| Download My Free TIMWOODY Guide | `https://engage.cfalean365.com/wp-content/uploads/2026/10/TIMWOODY.pdf  (live PDF; Draft 3.0 calls for a landing page, still pending)` |
+| Download My Free TIMWOODY Guide | `https://engage.cfalean365.com/wp-content/uploads/2026/10/TIMWOODY-Poster_Final.pdf  (final TIMWOODY poster PDF, about 11 MB)` |
 | Sign Me Up: Online | `https://engage.cfalean365.com/online/` |
 | Sign Me Up: In Person | `https://engage.cfalean365.com/dfw/` |
 | Book a short call with our team | `https://calendly.com/evans-kariuki-circleksolutions/lean-leader-information-call` |
